@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719087767153",
+    "project_id": "instakotlinnew",
+    "storage_bucket": "instakotlinnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719087767153:android:66450ab9fe2af038e215d0",
+        "android_client_info": {
+          "package_name": "com.berkesoft.instakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719087767153-l503fnrh5g2q46asqjtepucaam5rb729.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonRM8zWimDKN5HqQBXbmq-3dKf35GqGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719087767153-l503fnrh5g2q46asqjtepucaam5rb729.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
